@@ -18,6 +18,7 @@
 <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
     </p>
 <h2 align="left">👨🏻‍💻 О себе:</h2>
+
 - :computer: Я Front-end разработчик
 - :trophy: Успешно закончил курс веб-разработчик на ЯП
 - :hourglass_flowing_sand: Сейчас изучаю TypeScript
@@ -25,6 +26,7 @@
 - :rocket: Мне нравиться узнавать новое и видеть результат
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tangom)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tangom&show_icons=true) 
 
 <h2 align="left">:heart: Рад знакомству!</h2>
