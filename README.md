@@ -23,7 +23,8 @@
 - :trophy: Успешно закончил курс веб-разработчик на ЯП
 - :hourglass_flowing_sand: Сейчас изучаю TypeScript
 - :dart: Life Hack: "Все сложное состоит из простых вещей"
-- :rocket: Мне нравиться узнавать новое и видеть результат
+- :rocket: Мне нравится узнавать новое и видеть результат
+- https://github.com/Tangom/movies-explorer-frontend мой дипломный проект
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tangom)](https://github.com/anuraghazra/github-readme-stats)
 
