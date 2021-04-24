@@ -25,6 +25,8 @@
 - :dart: Life Hack: "Все сложное состоит из простых вещей"
 - :rocket: Мне нравится узнавать новое и видеть результат
 - https://github.com/Tangom/movies-explorer-frontend мой дипломный проект
+- https://github.com/Tangom/react-mesto-api-full проект mesto с использованием React
+- https://github.com/Tangom/russian-travel адаптивный лэндинг о путешествиях по России
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tangom)](https://github.com/anuraghazra/github-readme-stats)
 
